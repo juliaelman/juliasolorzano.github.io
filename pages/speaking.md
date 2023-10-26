@@ -5,6 +5,14 @@ permalink: /speaking/
 body_id: page-list
 ---
 
+<h3>2023</h3>
+<article>
+	<p>
+			<a href="https://2023.djangocon.us/talks/keynote-django-the-dinosaur/">
+			DjangoCon 2023, <em>Keynote: Django the Dinosaur: A Story About A Web Framework.</em>
+		</a>
+	</p>
+</article>
 <h3>2021</h3>
 <article>
 	<p>
